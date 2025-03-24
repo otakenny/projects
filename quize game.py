@@ -5,7 +5,6 @@ quiz_questions = [
     {"question": "Who wrote 'Romeo and Juliet'?", "answer": "Shakespeare"},
     {"question": "What is the largest ocean on Earth?", "answer": "Pacific Ocean"}
 ]
-
 score = 0  # Initialize score
 
 # Loop through the questions
