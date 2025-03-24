@@ -6,7 +6,6 @@ quiz_questions = [
     {"question": "What is the largest ocean on Earth?", "answer": "Pacific Ocean"}
 ]
 score = 0  # Initialize score
-
 # Loop through the questions
 for q in quiz_questions:
     user_answer = input(q["question"] + " ").strip().lower()  # Take user input (case insensitive)
